@@ -1,0 +1,646 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bitcoingtradingsignals.net" resolutions="1x,2x" timestamp="1513997551717">
+  <folder name="css">
+    <file name="site_global.css" crc="4040451043"/>
+    <file name="master_a-master.css" crc="3863738026" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="56009400" ref="index"/>
+    <file name="index.css" crc="531399464" ref="index"/>
+    <file name="nomq_index.css" crc="3787797679" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="62300408" ref="index"/>
+    <file name="form_process.php" crc="91775217" ref="index"/>
+    <file name="form-u15062.php" crc="3829278864" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="multi with sub1245.png" crc="449194399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="multi with sub1245_2x.png" crc="247508720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4749-11.png" crc="4264515442" ref="index"/>
+    <file name="u4749-11_2x.png" crc="171134060" ref="index"/>
+    <file name="picture of gunbot bitcoin robot.png" crc="4240099094" seo="true" ref="index">
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+    </file>
+    <file name="picture of gunbot bitcoin robot_2x.png" crc="3974380154" seo="true" ref="index">
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+      <caption webpage="index" alt="A Picture of a little Robot whose representing the Gunbot a Cryptocurrency Trading Robot."/>
+    </file>
+    <file name="gb header (rz).jpg" crc="435706028" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb z 5 (rz)930x523.jpg" crc="442889793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)650x325.jpg" crc="3888979423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113.jpg" crc="72143905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113_2x.jpg" crc="339920639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)951x476.jpg" crc="3934997225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)951x476_2x.jpg" crc="87195337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 18800x400.jpg" crc="127187615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 10(rz)872x523.jpg" crc="116883673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 7(rz)951x476.jpg" crc="35500873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 11 (resized)951x476.jpg" crc="4216772559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319.jpg" crc="309316074" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319_2x.jpg" crc="4093982409" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479.jpg" crc="4268161319" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479_2x.jpg" crc="505273784" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494.jpg" crc="126315463" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494_2x.jpg" crc="247963095" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb zeno 113-crop-u10206.jpg" crc="422506770" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 113-crop-u10206_2x.jpg" crc="71847083" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720.jpg" crc="190691825" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720_2x.jpg" crc="15055629" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833.jpg" crc="3896635166" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833_2x.jpg" crc="359246378" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947.jpg" crc="4029728654" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947_2x.jpg" crc="3894119382" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 18-crop-u10093.jpg" crc="285929547" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb zeno 18-crop-u10093_2x.jpg" crc="3943097970" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="gb header 1188(rz).jpg" crc="3832724543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb header 3.jpg" crc="293271126" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="multi with sub1245-u1489-fr.png" crc="3977897143" ref="index"/>
+    <file name="multi with sub1245-u1489-fr_2x.png" crc="435215104" ref="index"/>
+    <file name="u4749-112.png" crc="4264515442" ref="index"/>
+    <file name="u4749-11_2x2.png" crc="171134060" ref="index"/>
+    <file name="gb z 5 (rz)794x447.jpg" crc="68595359" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)660x330.jpg" crc="511149098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113408x669.jpg" crc="4270526673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113408x669_2x.jpg" crc="4049931421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)812x406.jpg" crc="348059908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)812x406_2x.jpg" crc="3877600180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 18812x406.jpg" crc="3776326161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 10(rz)744x447.jpg" crc="4255150296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 7(rz)812x406.jpg" crc="3832455832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 11 (resized)812x406.jpg" crc="37715661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u103192.jpg" crc="90935043" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319_2x2.jpg" crc="8199900" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u94792.jpg" crc="4177553593" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479_2x2.jpg" crc="3834442556" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u84942.jpg" crc="3971258087" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494_2x2.jpg" crc="518511583" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u88332.jpg" crc="4261688058" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833_2x2.jpg" crc="4008844535" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u87202.jpg" crc="3773252116" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720_2x2.jpg" crc="454586012" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 113-crop-u102062.jpg" crc="285001883" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 113-crop-u10206_2x2.jpg" crc="4037035013" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u89472.jpg" crc="4117196802" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947_2x2.jpg" crc="25939744" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 18-crop-u100932.jpg" crc="476601424" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb zeno 18-crop-u10093_2x2.jpg" crc="8561739" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="multi with sub1245-u1489-fr2.png" crc="132189138" ref="index"/>
+    <file name="multi with sub1245-u1489-fr_2x2.png" crc="3985501721" ref="index"/>
+    <file name="u4749-113.png" crc="2870495" ref="index"/>
+    <file name="u4749-11_2x3.png" crc="3793226801" ref="index"/>
+    <file name="gb z 5 (rz).jpg" crc="71785639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy).jpg" crc="476308427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113408x668.jpg" crc="14992471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113408x668_2x.jpg" crc="412693497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz).jpg" crc="4210717706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)_2x.jpg" crc="313857279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 18.jpg" crc="4038788466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 10(rz).jpg" crc="3983463065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 7(rz).jpg" crc="157287252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 11 (resized).jpg" crc="3968215838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u84943.jpg" crc="3971258087" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494_2x3.jpg" crc="518511583" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u94793.jpg" crc="4177553593" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479_2x3.jpg" crc="3834442556" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u103193.jpg" crc="90935043" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319_2x3.jpg" crc="8199900" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u88333.jpg" crc="4261688058" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833_2x3.jpg" crc="4008844535" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u87203.jpg" crc="3773252116" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720_2x3.jpg" crc="454586012" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 113-crop-u102063.jpg" crc="285001883" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 113-crop-u10206_2x3.jpg" crc="4037035013" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u89473.jpg" crc="4117196802" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947_2x3.jpg" crc="25939744" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 18-crop-u100933.jpg" crc="476601424" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb zeno 18-crop-u10093_2x3.jpg" crc="8561739" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="multi with sub1245-u1489-fr3.png" crc="262423083" ref="index"/>
+    <file name="multi with sub1245-u1489-fr_2x3.png" crc="406846158" ref="index"/>
+    <file name="u4749-114.png" crc="529069338" ref="index"/>
+    <file name="u4749-11_2x4.png" crc="503351280" ref="index"/>
+    <file name="gb z 5 (rz)649x366.jpg" crc="65559643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)540x270.jpg" crc="236743782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113341x559.jpg" crc="4173450064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113341x559_2x.jpg" crc="127253946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)664x332.jpg" crc="4154308018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)664x332_2x.jpg" crc="4143962872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 18664x332.jpg" crc="55294418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 10(rz)609x366.jpg" crc="3982568548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 7(rz)664x332.jpg" crc="3954764854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 11 (resized)664x332.jpg" crc="462162983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u84944.jpg" crc="4111332071" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494_2x4.jpg" crc="199783141" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u103194.jpg" crc="3966964731" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319_2x4.jpg" crc="4216976003" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u89474.jpg" crc="52333111" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947_2x4.jpg" crc="4080152196" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u87204.jpg" crc="115653027" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720_2x4.jpg" crc="471799100" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u88334.jpg" crc="458788793" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833_2x4.jpg" crc="22030805" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 113-crop-u102064.jpg" crc="4094127232" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 113-crop-u10206_2x4.jpg" crc="3960546879" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u94794.jpg" crc="447711023" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479_2x4.jpg" crc="285607288" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 18-crop-u100934.jpg" crc="191694664" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb zeno 18-crop-u10093_2x4.jpg" crc="3807312284" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="multi with sub1245-u1489-fr4.png" crc="4196730299" ref="index"/>
+    <file name="multi with sub1245-u1489-fr_2x4.png" crc="205411692" ref="index"/>
+    <file name="u4749-115.png" crc="3774705293" ref="index"/>
+    <file name="u4749-11_2x5.png" crc="183700980" ref="index"/>
+    <file name="gb z 5 (rz)486x274.jpg" crc="228936841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)404x202.jpg" crc="208636719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113254x417.jpg" crc="378800205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113254x417_2x.jpg" crc="4238526211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)497x249.jpg" crc="12311900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)497x249_2x.jpg" crc="79518312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 18497x249.jpg" crc="360716815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 10(rz)456x274.jpg" crc="250977457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 7(rz)497x249.jpg" crc="4224006498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 11 (resized)497x249.jpg" crc="4137656534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u103195.jpg" crc="3966964731" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319_2x5.jpg" crc="4216976003" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u84945.jpg" crc="4111332071" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494_2x5.jpg" crc="199783141" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u89475.jpg" crc="52333111" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947_2x5.jpg" crc="4080152196" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u87205.jpg" crc="115653027" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720_2x5.jpg" crc="471799100" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 113-crop-u102065.jpg" crc="4094127232" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 113-crop-u10206_2x5.jpg" crc="3960546879" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u88335.jpg" crc="458788793" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833_2x5.jpg" crc="22030805" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u94795.jpg" crc="447711023" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479_2x5.jpg" crc="285607288" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 18-crop-u100935.jpg" crc="191694664" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb zeno 18-crop-u10093_2x5.jpg" crc="3807312284" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="multi with sub1245-u1489-fr5.png" crc="4040257649" ref="index"/>
+    <file name="multi with sub1245-u1489-fr_2x5.png" crc="5858705" ref="index"/>
+    <file name="u4749-116.png" crc="4235672852" ref="index"/>
+    <file name="u4749-11_2x6.png" crc="4291371217" ref="index"/>
+    <file name="gb z 5 (rz)485x273.jpg" crc="4240267232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)403x202.jpg" crc="300166683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113198x325.jpg" crc="4256725878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113198x325_2x.jpg" crc="105451811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)496x248.jpg" crc="4036931064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)496x248_2x.jpg" crc="3772495012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 18496x248.jpg" crc="10779930" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 10(rz)454x273.jpg" crc="503478610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 7(rz)496x248.jpg" crc="85282911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 11 (resized)496x248.jpg" crc="35842408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u103196.jpg" crc="14785719" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319_2x6.jpg" crc="3812105864" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u84946.jpg" crc="65971902" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494_2x6.jpg" crc="147075004" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u87206.jpg" crc="515536611" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720_2x6.jpg" crc="257549646" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u94796.jpg" crc="318472341" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479_2x6.jpg" crc="4060793408" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u89476.jpg" crc="317942267" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947_2x6.jpg" crc="282086819" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 113-crop-u102066.jpg" crc="4044644941" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 113-crop-u10206_2x6.jpg" crc="471752414" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u88336.jpg" crc="192301181" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833_2x6.jpg" crc="3771406015" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 18-crop-u100936.jpg" crc="4191734232" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb zeno 18-crop-u10093_2x6.jpg" crc="4193133840" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb header 1188(rz)2.jpg" crc="215052365" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb header 1188(rz)_2x.jpg" crc="3832724543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4749-117.png" crc="86184645" ref="index"/>
+    <file name="u4749-11_2x7.png" crc="3877768990" ref="index"/>
+    <file name="gb z 5 (rz)-crop-u8453.jpg" crc="42951011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10279.jpg" crc="375587091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113111x182.jpg" crc="4115484502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 113111x182_2x.jpg" crc="3969419586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8793.jpg" crc="81382503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8793_2x.jpg" crc="4195516141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 18-crop-u10052.jpg" crc="3959389793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8906.jpg" crc="4209178396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8679.jpg" crc="3810720919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9439.jpg" crc="534129562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u103197.jpg" crc="242970310" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb zeno 1(iy)-crop-u10319_2x7.jpg" crc="4017411708" seo="true" ref="index">
+      <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u84947.jpg" crc="4043380013" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb z 5 (rz)-crop-u8494_2x7.jpg" crc="3944389331" seo="true" ref="index">
+      <caption webpage="index" alt="A picture of the Gunbot XT using the Trading View Extension and the Bollenger Band Strategy in order to Trade Bitcoin."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u87207.jpg" crc="3851716511" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 7(rz)-crop-u8720_2x7.jpg" crc="4205343988" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the Gui Log for Gunbot Highlighting its Bitcoin and Other Cryptocurrency Trades."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u94797.jpg" crc="4262164668" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 11 (resized)-crop-u9479_2x7.jpg" crc="182112987" seo="true" ref="index">
+      <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u89477.jpg" crc="4076848691" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 10(rz)-crop-u8947_2x7.jpg" crc="156350333" seo="true" ref="index">
+      <caption webpage="index" alt="Picture of the trades excuted by the gunbot highlighting profits made!"/>
+    </file>
+    <file name="gb zeno 113-crop-u102067.jpg" crc="152639652" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 113-crop-u10206_2x7.jpg" crc="508013477" seo="true" ref="index">
+      <caption webpage="index" alt="A list of all of the pre installed Strategies that come with gunbot already installed"/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u88337.jpg" crc="386669078" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 9(rz)-crop-u8833_2x7.jpg" crc="408556548" seo="true" ref="index">
+      <caption webpage="index" alt="An example of the free Bot that the Zeno Gui gives you for free to better help control the Gunbot."/>
+    </file>
+    <file name="gb zeno 18-crop-u100937.jpg" crc="27570546" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb zeno 18-crop-u10093_2x7.jpg" crc="307292847" seo="true" ref="index">
+      <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
+    </file>
+    <file name="gb header 1188(rz)-u10865-fr.jpg" crc="4200636194" ref="index"/>
+    <file name="gb header 1188(rz)-u10865-fr_2x.jpg" crc="3857041831" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4185156224" seo="true" mt="1513969993707" redirect="true"/>
+</manifest>
