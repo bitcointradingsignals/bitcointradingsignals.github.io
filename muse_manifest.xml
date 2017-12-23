@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bitcoingtradingsignals.net" resolutions="1x,2x" timestamp="1513997551717">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bitcointradingrobot.net" resolutions="1x,2x" timestamp="1514072284080">
   <folder name="css">
     <file name="site_global.css" crc="4040451043"/>
     <file name="master_a-master.css" crc="3863738026" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="56009400" ref="index"/>
-    <file name="index.css" crc="531399464" ref="index"/>
-    <file name="nomq_index.css" crc="3787797679" ref="index"/>
+    <file name="index.css" crc="3963366482" ref="index"/>
+    <file name="nomq_index.css" crc="3897745559" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,7 +20,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="form_check.php" crc="62300408" ref="index"/>
     <file name="form_process.php" crc="91775217" ref="index"/>
-    <file name="form-u15062.php" crc="3829278864" ref="index"/>
+    <file name="form-u15062.php" crc="200581981" ref="index"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
@@ -29,10 +29,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="multi with sub1245.png" crc="449194399" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="multi with sub1245_2x.png" crc="247508720" ref="index">
+    <file name="telegram banner resized.jpg" crc="4292561310" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u4749-11.png" crc="4264515442" ref="index"/>
@@ -143,8 +140,6 @@
     <file name="gb header 3.jpg" crc="293271126" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="multi with sub1245-u1489-fr.png" crc="3977897143" ref="index"/>
-    <file name="multi with sub1245-u1489-fr_2x.png" crc="435215104" ref="index"/>
     <file name="u4749-112.png" crc="4264515442" ref="index"/>
     <file name="u4749-11_2x2.png" crc="171134060" ref="index"/>
     <file name="gb z 5 (rz)794x447.jpg" crc="68595359" seo="true" ref="index">
@@ -225,8 +220,6 @@
     <file name="gb zeno 18-crop-u10093_2x2.jpg" crc="8561739" seo="true" ref="index">
       <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
     </file>
-    <file name="multi with sub1245-u1489-fr2.png" crc="132189138" ref="index"/>
-    <file name="multi with sub1245-u1489-fr_2x2.png" crc="3985501721" ref="index"/>
     <file name="u4749-113.png" crc="2870495" ref="index"/>
     <file name="u4749-11_2x3.png" crc="3793226801" ref="index"/>
     <file name="gb z 5 (rz).jpg" crc="71785639" seo="true" ref="index">
@@ -307,8 +300,6 @@
     <file name="gb zeno 18-crop-u10093_2x3.jpg" crc="8561739" seo="true" ref="index">
       <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
     </file>
-    <file name="multi with sub1245-u1489-fr3.png" crc="262423083" ref="index"/>
-    <file name="multi with sub1245-u1489-fr_2x3.png" crc="406846158" ref="index"/>
     <file name="u4749-114.png" crc="529069338" ref="index"/>
     <file name="u4749-11_2x4.png" crc="503351280" ref="index"/>
     <file name="gb z 5 (rz)649x366.jpg" crc="65559643" seo="true" ref="index">
@@ -389,8 +380,12 @@
     <file name="gb zeno 18-crop-u10093_2x4.jpg" crc="3807312284" seo="true" ref="index">
       <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
     </file>
-    <file name="multi with sub1245-u1489-fr4.png" crc="4196730299" ref="index"/>
-    <file name="multi with sub1245-u1489-fr_2x4.png" crc="205411692" ref="index"/>
+    <file name="telegram banner resized2.jpg" crc="235719757" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram banner resized_2x.jpg" crc="4292561310" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u4749-115.png" crc="3774705293" ref="index"/>
     <file name="u4749-11_2x5.png" crc="183700980" ref="index"/>
     <file name="gb z 5 (rz)486x274.jpg" crc="228936841" seo="true" ref="index">
@@ -471,8 +466,6 @@
     <file name="gb zeno 18-crop-u10093_2x5.jpg" crc="3807312284" seo="true" ref="index">
       <caption webpage="index" alt="Example of dashboard for Gunbot the Bitcoin and Crypto trading robot."/>
     </file>
-    <file name="multi with sub1245-u1489-fr5.png" crc="4040257649" ref="index"/>
-    <file name="multi with sub1245-u1489-fr_2x5.png" crc="5858705" ref="index"/>
     <file name="u4749-116.png" crc="4235672852" ref="index"/>
     <file name="u4749-11_2x6.png" crc="4291371217" ref="index"/>
     <file name="gb z 5 (rz)485x273.jpg" crc="4240267232" seo="true" ref="index">
@@ -642,5 +635,5 @@
     <file name="gb header 1188(rz)-u10865-fr.jpg" crc="4200636194" ref="index"/>
     <file name="gb header 1188(rz)-u10865-fr_2x.jpg" crc="3857041831" ref="index"/>
   </folder>
-  <file name="index.html" crc="4185156224" seo="true" mt="1513969993707" redirect="true"/>
+  <file name="index.html" crc="4183640828" seo="true" mt="1514064812139" redirect="true"/>
 </manifest>
