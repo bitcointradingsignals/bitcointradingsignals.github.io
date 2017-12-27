@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'jayhag88@gmail.com',
-		'to' => 'jayhag88@gmail.com'
+		'from' => 'bts.net@protonmail.com',
+		'to' => 'bts.net@protonmail.com'
 	),
 	'recaptcha2' => array(
 		'private_key' => '6Ldu9D0UAAAAAPQo6TYiyfE35o9kdV73Sfvgmx8Y'
@@ -44,7 +44,7 @@ $form = array(
 			)
 		),
 		'Email' => array(
-			'order' => 3,
+			'order' => 2,
 			'type' => 'email',
 			'label' => 'Email',
 			'required' => true,
@@ -73,7 +73,7 @@ $form = array(
 			)
 		),
 		'custom_U15306' => array(
-			'order' => 2,
+			'order' => 3,
 			'type' => 'string',
 			'label' => 'Telegram',
 			'required' => false,
